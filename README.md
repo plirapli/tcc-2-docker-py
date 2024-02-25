@@ -4,9 +4,9 @@ This repository contains a sample Flask application designed to be deployed on D
 
 ## Project Structure
 
-├── app.py # Main Flask application entry point
-├── Dockerfile # Dockerfile for building the Docker image
-├── requirements.txt # Python dependencies for the Flask application
+├── app.py # Main Flask application entry point <br>
+├── Dockerfile # Dockerfile for building the Docker image <br>
+├── requirements.txt # Python dependencies for the Flask application <br>
 └── README.md # This readme file
 
 ## Getting Started
